@@ -1,0 +1,7 @@
+
+
+get '/' do
+  "blog"
+end
+
+
